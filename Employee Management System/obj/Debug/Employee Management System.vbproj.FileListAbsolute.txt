@@ -1,0 +1,17 @@
+C:\Users\salman computers\OneDrive\Documents\Visual Studio 2012\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\salman computers\OneDrive\Documents\Visual Studio 2012\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\salman computers\OneDrive\Documents\Visual Studio 2012\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\salman computers\OneDrive\Documents\Visual Studio 2012\Employee Management System\Employee Management System\bin\Debug\Employee Management System.xml
+C:\Users\salman computers\OneDrive\Documents\Visual Studio 2012\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Form1.resources
+C:\Users\salman computers\OneDrive\Documents\Visual Studio 2012\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Resources.resources
+C:\Users\salman computers\OneDrive\Documents\Visual Studio 2012\Employee Management System\Employee Management System\obj\Debug\Employee Management System.vbproj.GenerateResource.Cache
+C:\Users\salman computers\OneDrive\Documents\Visual Studio 2012\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\salman computers\OneDrive\Documents\Visual Studio 2012\Employee Management System\Employee Management System\obj\Debug\Employee Management System.xml
+C:\Users\salman computers\OneDrive\Documents\Visual Studio 2012\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\salman computers\OneDrive\Documents\Visual Studio 2012\Employee Management System\Employee Management System\bin\Debug\Guna.UI.dll
+C:\Users\salman computers\OneDrive\Documents\Visual Studio 2012\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.SplashScreen.resources
+C:\Users\salman computers\OneDrive\Documents\Visual Studio 2012\Employee Management System\Employee Management System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\salman computers\OneDrive\Documents\Visual Studio 2012\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AdminPanel.resources
+C:\Users\salman computers\OneDrive\Documents\Visual Studio 2012\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Employee.resources
+C:\Users\salman computers\OneDrive\Documents\Visual Studio 2012\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Details.resources
+C:\Users\salman computers\OneDrive\Documents\Visual Studio 2012\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Salary.resources
